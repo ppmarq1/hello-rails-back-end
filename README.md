@@ -1,20 +1,24 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Rails React
+# Hello Rails Back-end
 
-This project is a Implementation with a connection between a Ruby on Rails back-end and React front-end.
+This project is a Rails back-end and connect with a React front-end and then to display a random message.
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-- Copy this link `https://github.com/ppmarq1/hello-rails-react.git'.
+- Copy this link `https://github.com/ppmarq1/hello-rails-back-end.git'.
 - Get the directory that you want to clone the repository.
 - Open the command prompt in this directory.
-- Write `https://github.com/ppmarq1/hello-rails-react.git`.
-- Go to the repository folder in your command prompt `cd recipe-app`.
+- Write `https://github.com/ppmarq1/hello-rails-back-end.git`.
+
 
 - Follow these steps to run the app:
   - run `gem install`, then run `rails s`
+
+## Front - End
+
+Link to front end repo - INSERIR O LINK AQUI!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ## Authors
@@ -29,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ppmarq1/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/ppmarq1/hello-rails-back-end/issues).
 
 ## Show your support
 
