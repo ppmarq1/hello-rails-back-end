@@ -18,7 +18,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Front - End
 
-Link to front end repo - INSERIR O LINK AQUI!!!!!!!!!!!!!!!!!!!!!!!!!
+Link to front end repo - `https://github.com/ppmarq1/hello-react-front-end/pull/1`
 
 
 ## Authors
