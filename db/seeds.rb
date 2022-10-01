@@ -5,3 +5,13 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+greetings = Message.create([
+    {greeting:"Hello Rails!"},
+    {greeting:"Hello JavaScript!"},
+    {greeting:"Hello Ruby!"},
+    {greeting:"Hello React!"},
+    {greeting:"Hello Redux!"}
+  ])
+  
+  puts 'greetings created...'
